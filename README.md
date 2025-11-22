@@ -104,7 +104,7 @@ Create:
 /opt/wazuh-ai-analyzer/analyzer.py
 
 Full script available here:
-🔗 https://github.com/cloudsec1/Wazuh-AI-Alert-Analyzer/blob/main/AI_Analyser_Wazuh_git.py
+🔗 https://github.com/cloudsec1/Wazuh-AI-Alert-Analyzer/blob/main/analyser.py
 
 Script Responsibilities:
 
